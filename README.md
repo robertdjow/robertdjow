@@ -1,10 +1,10 @@
 <h1 align="center">Oi 👋, Eu sou Roberto Paulo Sianciulis Júnior</h1>
 <h3 align="center">Apaixonado por análise de dados</h3>
 
-- 🔭Atualmente estou trabalhando com ML **Modelos Preditivos de grupos de risco de Imóveis - Consórcio**
-
 - 🌱 Atualmente estou aprendendo **Python, Machine Learning (ML), AWS, Power BI**
-
+  
+- 🔭 Em 2023, trabalhei com ML na minha pós-graduação em um projeto de **Modelos Preditivos de grupos de risco de Imóveis - Consórcio**
+    
 - 💬 Me pergunte sobre **SQL, Excel, SAS, Power BI, Python, ML**
 
 - 📫Você me acha através do e-mail **robertopsj@hotmail.com**
